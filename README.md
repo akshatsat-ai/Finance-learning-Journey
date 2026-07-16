@@ -22,4 +22,16 @@ To build practical skills in:
 - [ ] Resume Improvement
 - [ ] Market Research Reading
 
+## Projects
+
+Projects will be added here as I progress through my 90-day learning journey.
+
+### Planned Projects
+
+- Stock Price Dashboard
+- NIFTY Analysis
+- Option Chain Analyzer
+- Portfolio Risk Calculator
+- DCF Valuation Model
+- Strategy Backtester
 Started on: 16 July 2026
